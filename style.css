@@ -1,5 +1,8 @@
 body {
-  background: #342E37;
+  background: #2c2a2d;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
   }
 
 .container {
@@ -31,7 +34,7 @@ form {
   cursor: pointer;
   display: block;
   position: relative;
-  background-color: #676264;
+  background-color: #9b365e;
   padding: 20px 80px;
   margin: 0 auto;
   border-radius: 20px;
